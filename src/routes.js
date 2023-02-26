@@ -1,4 +1,4 @@
-const { Router } = require('express')
+import { Router } from 'express'
 const routes = new Router()
 
 
@@ -8,4 +8,5 @@ const routes = new Router()
         return res.json({ok: true})
     })
 
-   module.exports = routes
+   
+   export default routes

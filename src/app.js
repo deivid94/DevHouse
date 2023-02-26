@@ -1,11 +1,16 @@
-
-const express = require ('express')
-const routes = require('./routes')
-
+import express from 'express'
+import routes from './routes'
+import mongoose from 'mongoose'
 
  class app{
     constructor(){
         this.server = express()
+        mongoose.set('strictQuery', true)
+        mongoose.connect('mongodb+srv://deivid:devhouse@devhouse.ldkjz2o.mongodb.net/devhouse?retryWrites=true&w=majority',{
+        
+            
+        })
+
         this.middlewares()
         this.routes()
     }
@@ -19,4 +24,4 @@ const routes = require('./routes')
 
  }
 
- module.exports = new app().server
+ export default new app().server
