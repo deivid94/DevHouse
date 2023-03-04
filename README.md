@@ -22,11 +22,15 @@ The objective was to learn a RESTful software architecture, where a backend can 
  <img alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </p>
 
-   
-  <p>
-  
-  </p>
 
+  <div align="center">
+    <h1>How to contribuite</h1>
+  
+  ```bash
+  git clone 
+  
+  ```
+  </div>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/deivid-martins1994/">
