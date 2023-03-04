@@ -25,11 +25,36 @@ The objective was to learn a RESTful software architecture, where a backend can 
 
   <div align="center">
     <h1>How to contribuite</h1>
+    <div align="justify">```
+    
+    
+```bash
+git clone https://github.com/deivid94/DevHouse.git
+
+## Open project with or IDE and install dependencies:
   
-  ```bash
-  git clone 
+
+npm  install yarn --global yarn
+
+cd "#yourDirwithSaveTheproject/DevHouse"
+
+yarn init -Y
+
+yarn add express nodemon sucrase multer -D #  "-D only install in project"
+
+#run project
+
+
+dev yarn
+# or
+
+nodemon /src/server.js
+
+```
+
   
-  ```
+  
+  </div>
   </div>
 <hr>
 <p align="center">
