@@ -21,7 +21,10 @@ The objective was to learn a RESTful software architecture, where a backend can 
  <img alt="" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
  <img alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </p>
-
+  <div align="center">
+  <span style="color:red">DevHouse is not yet complete - last commit 04/02/2023
+</span>
+  </div>
 
   <div align="center">
     <h1>How to contribuite</h1>

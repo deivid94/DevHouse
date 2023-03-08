@@ -2,3 +2,4 @@
 *.log
 *.lock
 teste.md
+/uploads/*.jpg
