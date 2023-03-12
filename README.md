@@ -20,6 +20,7 @@ The objective was to learn a RESTful software architecture, where a backend can 
  <img alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img alt="" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
  <img alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img alt="" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
   </p>
   <div align="center">
   <span style="color:red">DevHouse is not yet complete - last commit 04/02/2023
